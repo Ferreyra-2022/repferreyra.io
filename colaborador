@@ -1,0 +1,40 @@
+
+<DOCTYPE>
+	<!DOCTYPE html>
+	<html>
+	<link rel="stylesheet" type="text/css" href="parcial.css">
+	<head>
+		<title>Proyecto Programacion</title>
+	</head>
+	
+	<header> <center> <H1>Profesor Fernando Clemente</H1> </center>
+		<video muted autoplay loop> <source src="y2mate.com - Bandera argentina animada  fondo  movimiento_480p.mp4" type="video/mp4" </video>
+		 </header>
+
+<body>
+	<article>
+	<p><h2> Fernando Clemente, nacido en el año 1989 en Argetina,mas precisamente en la provincia de Tucuman. Inicio sus estudios primarios primarios y secundarios en el colegio parroquial Ntra. Sra. de Montserrat perteneciente a la Hermandad de Sacerdotes Operarios del Corazon de Jesus. Clemente finalizo sus estudios de educacion media en el año 2007 con un promedio de 6.65</h2></p>
+
+	<p><h2> Su etapa fomativa como docente comenzo un poco trunca. En el año 2008 comenzo sus estudios para profesor de educacion fisica pero no llego a buen destino.</h2></p>
+	<p><h2>En el año 2010 arranco sus estudios como profesor de ciencias sagradas y luego de 2 años con un desempeño regular, termino desistiendo.</h2></p>
+	<p><h2> Fueron 12 años extensos en los cuales experimento el trabajo con relacion de dependencia, se dispuso a realizar algunos cursos temporates e incluso experimento la paternidad. Al verse aun capaz de formace decidio enfocar sus estudios en el profesorado de informatica obteniendo un exelente desempeño.</h2></p>
+    </article>
+
+    <img src="IMG_20190817_080440_899.jpg" border="10" class="imagen">
+	
+	<h3><center><a href="9 de julio.html"> Ver 25 de Mayo </a> </center></h3>
+	
+	</body>
+
+	<footer>
+	 <center> <h2> Todos los derechos reservador</h2> </center>
+<ul>
+	<a href="https://www.Facebook.com/" target="blank" #0040FF> Ir a Facebook 
+     </a>
+</ul>
+	<ul>   
+	 <a href="https://www.Instagram.com/" target="blank"> Ir a Instagram</a>
+	</ul>
+</ul>
+	</footer>
+	</html>  
